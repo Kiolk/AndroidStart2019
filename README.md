@@ -35,3 +35,32 @@ https://t.me/joinchat/JnUVYxAe1Q7KnNWiNLuqbg
 - [ ] Create develop branch
 - [ ] Implemented all TODOs
 - [ ] Add link on your repository in issue
+
+**Home Task 3 - Copy me**
+
+Need create layout that copy screen existing application.
+Try use same fonts, size, padding.
+
+### Basic
+https://play.google.com/store/apps/details?id=randomappsinc.com.sqlpracticeplus&hl=en
+
+- [ ] landscape
+![](pictures/sql_practies_landscape.jpg)
+- [ ] portrait
+![](pictures/sql_practies_portrait.jpg)
+
+ 
+### Normal
+https://play.google.com/store/apps/details?id=com.shazam.android&hl=en
+
+- [ ] portrait
+![](pictures/shazam_portrait.jpg)
+- [ ] landscape
+![](pictures/shazan_landscape.jpg)
+
+### Advance
+https://play.google.com/store/apps/details?id=uk.free.books.read.listen&hl=en
+
+- [ ] portrait
+![](pictures/free_book.jpg)
+ 
