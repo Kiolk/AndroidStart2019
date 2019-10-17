@@ -66,3 +66,9 @@ https://play.google.com/store/apps/details?id=uk.free.books.read.listen&hl=en
 
 - [ ] portrait
 <img src="pictures/free_book.jpg" height="400" width="140">
+
+**Home Task 4 - Splash**
+- [ ] create and implement correct splash screen
+- [ ] on implemented [login screen](https://github.com/d1scret0/lesson3) add TextInputLayout for EditText 
+- [ ] create custom view (compose or from scratch)
+
