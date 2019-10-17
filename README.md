@@ -45,22 +45,24 @@ Try use same fonts, size, padding.
 https://play.google.com/store/apps/details?id=randomappsinc.com.sqlpracticeplus&hl=en
 
 - [ ] landscape
-![](pictures/sql_practies_landscape.jpg)
+<img src="pictures/sql_practies_landscape.jpg" height="140" width="400">
+
 - [ ] portrait
-![](pictures/sql_practies_portrait.jpg)
+<img src="pictures/sql_practies_portrait.jpg" height="400" width="140">
 
  
 ### Normal
 https://play.google.com/store/apps/details?id=com.shazam.android&hl=en
 
-- [ ] portrait
-![](pictures/shazam_portrait.jpg)
 - [ ] landscape
-![](pictures/shazan_landscape.jpg)
+<img src="pictures/shazan_landscape.jpg" height="140" width="400">
+
+- [ ] portrait
+<img src="pictures/shazam_portrait.jpg" height="400" width="140">
+
 
 ### Advance
 https://play.google.com/store/apps/details?id=uk.free.books.read.listen&hl=en
 
 - [ ] portrait
-![](pictures/free_book.jpg)
- 
+<img src="pictures/free_book.jpg" height="400" width="140">
