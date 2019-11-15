@@ -72,3 +72,9 @@ https://play.google.com/store/apps/details?id=uk.free.books.read.listen&hl=en
 - [ ] on implemented [login screen](https://github.com/d1scret0/lesson3) add TextInputLayout for EditText 
 - [ ] create custom view (compose or from scratch)
 
+**Home Task 5 - ViewPager**
+Dedline 25 November
+- [ ] Implement example of ViewPager
+- [ ] For ViewPager add tabs. 
+- [ ] Implement logic for check and request all groups of dangerous permistions. Handle situation when user checked "Don't ask againe" - show dialog and open application settings.
+
